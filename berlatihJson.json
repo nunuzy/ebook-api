@@ -1,0 +1,22 @@
+[
+    {
+        "Nama": "Nukhi",
+        "Kelas": "12 RPL 2",
+        "Semester": 5,
+        "Hobby": ["swimming", "footbal", "gaming"],
+        "Mapel": {
+            "kk2": "database",
+            "kk4": "mobile and app"
+        }
+    },
+    {
+        "Nama": "Nukhi",
+        "Kelas": "12 RPL 2",
+        "Semester": 5,
+        "Hobby": ["swimming", "footbal", "gaming"],
+        "Mapel": {
+            "kk2": "database",
+            "kk4": "mobile and app"
+        }
+    }
+]
