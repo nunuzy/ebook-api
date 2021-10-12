@@ -30,7 +30,7 @@ class AuthorController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function create(Request $request)
+    public function store(Request $request)
     {
         $author = new author();
             $author -> name = $request->name;
@@ -49,8 +49,6 @@ class AuthorController extends Controller
             ], 201
         );
     }
-
-
 
     /**
      * Display the specified resource.
